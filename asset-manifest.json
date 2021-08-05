@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cursor-react-hooks.git/static/css/main.f4854af6.chunk.css",
+    "main.js": "/cursor-react-hooks.git/static/js/main.65ee4733.chunk.js",
+    "main.js.map": "/cursor-react-hooks.git/static/js/main.65ee4733.chunk.js.map",
+    "runtime-main.js": "/cursor-react-hooks.git/static/js/runtime-main.1ab47a4d.js",
+    "runtime-main.js.map": "/cursor-react-hooks.git/static/js/runtime-main.1ab47a4d.js.map",
+    "static/js/2.5fc20759.chunk.js": "/cursor-react-hooks.git/static/js/2.5fc20759.chunk.js",
+    "static/js/2.5fc20759.chunk.js.map": "/cursor-react-hooks.git/static/js/2.5fc20759.chunk.js.map",
+    "static/js/3.40aa515d.chunk.js": "/cursor-react-hooks.git/static/js/3.40aa515d.chunk.js",
+    "static/js/3.40aa515d.chunk.js.map": "/cursor-react-hooks.git/static/js/3.40aa515d.chunk.js.map",
+    "index.html": "/cursor-react-hooks.git/index.html",
+    "static/css/main.f4854af6.chunk.css.map": "/cursor-react-hooks.git/static/css/main.f4854af6.chunk.css.map",
+    "static/js/2.5fc20759.chunk.js.LICENSE.txt": "/cursor-react-hooks.git/static/js/2.5fc20759.chunk.js.LICENSE.txt",
+    "static/media/google-contacts.21dc279a.svg": "/cursor-react-hooks.git/static/media/google-contacts.21dc279a.svg",
+    "static/media/transgender.aba97bc3.png": "/cursor-react-hooks.git/static/media/transgender.aba97bc3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ab47a4d.js",
+    "static/js/2.5fc20759.chunk.js",
+    "static/css/main.f4854af6.chunk.css",
+    "static/js/main.65ee4733.chunk.js"
+  ]
+}
